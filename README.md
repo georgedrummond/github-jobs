@@ -1,5 +1,7 @@
 # Github Jobs
 
+[![Build Status](https://travis-ci.org/georgedrummond/github-jobs.png)](https://travis-ci.org/georgedrummond/github-jobs)
+
 For your ruby apps that need to consume the Github jobs api...
 
 ## Installation
