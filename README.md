@@ -1,6 +1,6 @@
 # Github Jobs
 
-[![Build Status](https://travis-ci.org/georgedrummond/github-jobs.png)](https://travis-ci.org/georgedrummond/github-jobs)
+[![Build Status](https://travis-ci.org/georgedrummond/github-jobs.png)](https://travis-ci.org/georgedrummond/github-jobs) [![Gem Version](https://badge.fury.io/rb/github-jobs.png)](http://badge.fury.io/rb/github-jobs)
 
 For your ruby apps that need to consume the Github jobs api...
 
